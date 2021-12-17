@@ -1,0 +1,3 @@
+- [ ] Emoji
+- [ ] Listas ordenadas
+- [ ] Listas desordenadas
